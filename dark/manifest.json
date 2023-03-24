@@ -1,0 +1,54 @@
+{
+    "manifest_version": 3,
+    "name": "average amolded user",
+    "description": "i dont know why you would ever use this",
+    "version": "1.0",
+    "icons":
+    {
+        "512": "icon.png"
+    },
+    "developer":
+    {
+        "name": "uynboxng"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+            "theme":
+            {
+                "dark":
+                {
+                    "gx_accent":
+                    {
+                        "h": 0,
+                        "s": 0,
+                        "l": 0
+                    },
+                    "gx_secondary_base":
+                    {
+                        "h": 0,
+                        "s": 0,
+                        "l": 0
+                    }
+                },
+                "light":
+                {
+                    "gx_accent":
+                    {
+                        "h": 0,
+                        "s": 0,
+                        "l": 0
+                    },
+                    "gx_secondary_base":
+                    {
+                        "h": 0,
+                        "s": 0,
+                        "l": 0
+                    }
+                }
+            }
+        }
+    }
+}

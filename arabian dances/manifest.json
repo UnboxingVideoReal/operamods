@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "name": "arabian dances",
+    "description": "this song slaps and you know it",
+    "version": "1.0",
+    "icons":
+    {
+        "512": "icon.png"
+    },
+    "developer":
+    {
+        "name": "uynboxng"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+            "background_music":
+            [
+                "music/arabiandances.mp3"
+            ]
+        }
+    }
+}

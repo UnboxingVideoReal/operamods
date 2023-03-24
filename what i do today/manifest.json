@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "name": "what i do today",
+    "description": "ermm what the flip!",
+    "version": "1.0",
+    "icons":
+    {
+        "512": "icon.png"
+    },
+    "developer":
+    {
+        "name": "uynboxng"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+            "background_music":
+            [
+                "music/whatidotoday.mp3"
+            ]
+        }
+    }
+}

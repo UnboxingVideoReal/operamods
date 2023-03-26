@@ -1,0 +1,35 @@
+{
+    "manifest_version": 3,
+    "name": "exponent",
+    "description": "windows xp discord wetf",
+    "version": "1.0",
+    "icons":
+    {
+        "512": "icon_512.png"
+    },
+    "author": "uynboxing",
+    "developer":
+    {
+        "name": "uynboxing"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+            "page_styles":
+            [
+                {
+                    "matches":
+                    [
+                        "https://*.discord.com/*"
+                    ],
+                    "css":
+                    [
+                        "css/exponent.css"
+                    ]
+                }
+            ]
+        }
+    }
+}

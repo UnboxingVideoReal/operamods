@@ -1,0 +1,25 @@
+{
+    "manifest_version": 3,
+    "name": "disregard",
+    "description": "also quite the bagner",
+    "version": "1.0",
+    "icons":
+    {
+        "512": "icon.png"
+    },
+    "developer":
+    {
+        "name": "uynboxng"
+    },
+    "mod":
+    {
+        "schema_version": 1,
+        "payload":
+        {
+            "background_music":
+            [
+                "music/disregard.mp3"
+            ]
+        }
+    }
+}

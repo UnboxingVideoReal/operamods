@@ -11,3 +11,5 @@ some silly mods i made cause i wanted to
 ### alternative way of downloading
 - find the .crx file of the mod you want
 - press download
+### or
+- go to [this website](https://unbozoopera.netlify.app) for a shrimple ui
